@@ -1,5 +1,4 @@
-# Project_1
-'library(openxlsx)
+library(openxlsx)
 dat<-openxlsx::read.xlsx("D:/Education/Competition/AV/NMIMS Hyderabad/Round 3/Data Hack Round 3 Case Study/Copy of Housing_Resale_Data (1).xlsx", sheet= 1)
 #dat<-backup
 
